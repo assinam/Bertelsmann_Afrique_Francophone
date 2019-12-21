@@ -6,7 +6,7 @@ Le blog utilise un template téléchargé à cette [adresse](https://www.stylesh
 
 ## Structure du blog 
 Voici la structure du blog: 
-0. Accueil
+-  Accueil
 1. Le Concours?
     - C'est quoi?
     - Critères ?
